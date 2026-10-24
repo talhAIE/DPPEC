@@ -1,6 +1,7 @@
-# PECDF - Pakistan Export Demand Forecasting System
+# DPPEC - Demand Prediction for Pakistan’s Export
+Commodities
 
-PECDF is a full-stack machine-learning application that forecasts monthly export values for ten key Pakistani commodities and turns the results into practical dashboards, scenarios, and AI-assisted insights.
+DPPEC is a machine-learning application that forecasts monthly export values for ten key Pakistani commodities and turns the results into practical dashboards, scenarios, and AI-assisted insights.
 
 ## Overview
 
@@ -115,7 +116,7 @@ Forecast quality varies by commodity. Stable categories such as Men's Suits, Bed
 ## Project Structure
 
 ```text
-PECDF/
+DPPEC/
 |-- Data/        # Master dataset and source data
 |-- Models/      # Trained XGBoost model
 |-- Notebooks/   # Data engineering, EDA, training, and inference notebooks
